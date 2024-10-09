@@ -1,2 +1,2 @@
 # Delta-Demo
-This is Demo Repository
+This is Demo Repository.
